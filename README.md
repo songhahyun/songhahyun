@@ -1,5 +1,5 @@
-Hi there 👋 I'm an AI Engineer focused on **RAG systems, LLM applications, retrieval evaluation, and backend deployment.**
-- GitHub: github.com/songhahyun
+## Hi there 👋 
+I'm an AI Engineer focused on **RAG systems, LLM applications, retrieval evaluation, and backend deployment.**
 - Email: hahyunsong491@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hahyunsong/
 - Blog: https://gkgus0201.tistory.com/
@@ -15,9 +15,11 @@ FastAPI, JWT authentication, role-based access control
 React, TypeScript, API integration, dashboard-style interfaces
 
 ## 🌱 Featured Projects
-### Finance Terms RAG Chatbot (26.04 ~ ing)
+### Finance Terms RAG Chatbot
 Korean financial-domain RAG chatbot using Bank of Korea glossary documents.
+
 Tech stack: Python, FastAPI, LangChain, ChromaDB, BM25, Ollama, React, TypeScript, RAGAS
+
 Highlights:
 - Implemented a Korean financial-term QA chatbot over domain-specific glossary documents
 - Built hybrid retrieval using sparse and dense retrieval strategies
@@ -28,18 +30,19 @@ Highlights:
 
 ### Transformer Seq2Seq Model
 Transformer-based English-Korean translation model implemented in PyTorch.
+
 Tech stack: Python, PyTorch, Transformer, Seq2Seq, NLP
+
 Highlights:
--Implemented modular Transformer components including encoder, decoder, attention, and training pipeline
--Built data preprocessing, training, evaluation, and inference entry points
--Focused on understanding model internals rather than only using pretrained APIs
+- Implemented modular Transformer components including encoder, decoder, attention, and training pipeline
+- Built data preprocessing, training, evaluation, and inference entry points
+- Focused on understanding model internals rather than only using pretrained APIs
 
 ## 🔭 What I Aim to Build
 
 I am interested in AI engineering roles where I can work on:
-
-RAG and LLM application development
-Search, retrieval, and ranking systems
-AI backend infrastructure
-Model evaluation and failure analysis
-Applied NLP systems for domain-specific knowledge tasks
+- RAG and LLM application development
+- Search, retrieval, and ranking systems
+- AI backend infrastructure
+- Model evaluation and failure analysis
+- Applied NLP systems for domain-specific knowledge tasks
